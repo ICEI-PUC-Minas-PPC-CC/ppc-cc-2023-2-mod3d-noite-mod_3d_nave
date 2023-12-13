@@ -1,3 +1,8 @@
-# Apresentação da Solução
+# Processo de Desenvolvimento da nave
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+## Inspiração
+  # Link: https://youtu.be/ImuJDnuIw9E
+  ps:O git não suportou o vídeo
+![nave_frente](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod_3d_nave/assets/143012685/8999a4fc-ca6d-4e62-aa3a-e2dffb5c54ae)
+
+![nave_traseira](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod_3d_nave/assets/143012685/fc5031ba-0ce6-4949-bc62-b60c8a0be928)
