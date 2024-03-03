@@ -1,7 +1,7 @@
 # Processo de Desenvolvimento da nave
 
-## Inspiração
-  # Link: https://drive.google.com/drive/folders/1auMG8Hx0x9pXJH3Zl2iQ0MRSnCmnt5r1?usp=sharing
+
+  # Link: https://youtu.be/ImuJDnuIw9E
   
 ![nave_frente](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod_3d_nave/assets/143012685/8999a4fc-ca6d-4e62-aa3a-e2dffb5c54ae)
 
